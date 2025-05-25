@@ -12,8 +12,8 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-projeto-cypress.git
-cd seu-projeto-cypress
+git clone https://github.com/alecsandros3053/qa-cypress-test.git
+cd qa-cypress-test
 
 # Instale as dependências
 npm install

@@ -2,6 +2,8 @@
   "name": "cypress-test",
   "packageManager": "yarn@4.6.0",
   "devDependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "@fnando/cnpj": "^2.0.0",
     "cypress": "^14.4.0"
   }
 }

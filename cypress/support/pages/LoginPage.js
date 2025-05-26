@@ -1,8 +1,7 @@
 class EsqueciSenhaPage {
 
   clickEntrar() {
-     cy.get('#loginbtn').click()
-     
+     cy.get('#loginbtn').click()     
   }
 
   preencherUsuario(usuario){
